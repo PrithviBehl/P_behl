@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <meta name="viewport" content="initial-scale=1.0, width=device-width" />
+      <title>Page Title</title>
+      <style>
+         /* your styles here */
+      </style>
+   </head>
+   <body>
+      <h1>My Header</h1>
+   </body>
+</html>
